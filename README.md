@@ -22,39 +22,39 @@ The grid can have 3 characters
 
 Example Input 1:
 
-X
-XX-
--XO
-OO-
+'X'
+'XX-'
+'-XO'
+'OO-'
 
 Example Input 2:
 
-O
-O-X
--OX
----
+'O'
+'O-X'
+'-OX'
+'---'
 
 Example Input 3:
 
-X
---O
-OXX
----
+'X'
+'--O'
+'OXX'
+'---'
 
 Output:
 
 Shows the board with the winning move in place. If there is no winning move print out "No winning move"
 Example Output 1:
 
-XXX
--XO
-OO-
+'XXX'
+'-XO'
+'OO-'
 
 Example Output 2:
 
-O-X
--OX
---O
+'O-X'
+'-OX'
+'--O'
 
 Example Output 3:
 
